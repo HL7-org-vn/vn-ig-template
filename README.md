@@ -32,7 +32,7 @@ For release builds, reference a fixed template version from the IG repository:
 
 ```ini
 [IG]
-template = hl7.fhir.vn.template#0.1.1
+template = hl7.fhir.vn.template#0.1.2
 ```
 
 For local development, install this package into the local FHIR package cache before running the IG Publisher.
