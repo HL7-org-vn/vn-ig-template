@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<translations>
+  <translation name="ADL" en="ADL" vi="ADL" />
+  <translation name="Abstract" en="Abstract" vi="Trừu tượng" />
+  <translation name="Actors" en="Actors" vi="Tác nhân" />
+  <translation name="AllTables" en="All" vi="Tất cả" />
+  <translation name="ArtifactsIntro" en="This page provides a list of the FHIR artifacts defined as part of this implementation guide." vi="Trang này liệt kê các artifact FHIR được định nghĩa trong bộ hướng dẫn triển khai này." />
+  <translation name="ArtifactsSummary" en="Artifacts Summary" vi="Tóm tắt artifact" />
+  <translation name="CSV" en="CSV" vi="CSV" />
+  <translation name="ChangeHistory" en="Change History" vi="Lịch sử thay đổi" />
+  <translation name="ChangesIn" en="Changes in the %ID% %TYPE%." vi="Các thay đổi trong %ID% %TYPE%." />
+  <translation name="CodeSystemValuesets" en="This Code system is referenced in the definition of the following value sets:" vi="This Code system is referenced in the definition of the following value sets:" />
+  <translation name="ComputableName" en="Computable Name" vi="Computable Name" />
+  <translation name="Contained" en="Contained resources" vi="Tài nguyên chứa kèm" />
+  <translation name="Content" en="Content" vi="Nội dung" />
+  <translation name="Contents" en="Contents" vi="Mục lục" />
+  <translation name="CopyURL" en="Click to copy URL" vi="Nhấn để sao chép URL" />
+  <translation name="CopyVersioned" en="Click to copy versioned URL" vi="Nhấn để sao chép URL có phiên bản" />
+  <translation name="CopyrightLegal" en="Copyright/Legal" vi="Bản quyền/Pháp lý" />
+  <translation name="CountryFlag" en="flag" vi="cờ" />
+  <translation name="DataTypeProfile" en="Data Type Profile" vi="Hồ sơ kiểu dữ liệu" />
+  <translation name="DefinitionsFor" en="Definitions for the %MODEL%" vi="Các định nghĩa cho %MODEL%" />
+  <translation name="Derive" en="This structure is derived from %ARTIFACT%" vi="Cấu trúc này được suy ra từ %ARTIFACT%" />
+  <translation name="DetailedDescriptions" en="Detailed Descriptions" vi="Mô tả chi tiết" />
+  <translation name="Diagram" en="Diagram" vi="Sơ đồ" />
+  <translation name="DifferentialTable" en="Differential Table" vi="Bảng Differential" />
+  <translation name="DifferentialView" en="Differential View" vi="Dạng xem Differential" />
+  <translation name="Download" en="Download" vi="Tải xuống" />
+  <translation name="Example" en="Example" vi="Ví dụ" />
+  <translation name="Examples" en="Examples" vi="Các ví dụ" />
+  <translation name="ExamplesForProfile" en="Examples for the %ID% Profile." vi="Ví dụ cho hồ sơ %ID%." />
+  <translation name="ExamplesForResource" en="Examples for the %ID% Resource." vi="Ví dụ cho tài nguyên %ID%." />
+  <translation name="Excel" en="Excel" vi="Excel" />
+  <translation name="Expansion" en="Expansion" vi="Khai triển" />
+  <translation name="Experimental" en="Experimental" vi="Thử nghiệm" />
+  <translation name="Extension" en="Extension" vi="Phần mở rộng" />
+  <translation name="FormalExtension" en="Formal Views of Extension Content" vi="Các dạng xem hình thức của nội dung phần mở rộng" />
+  <translation name="FormalProfile" en="Formal Views of Profile Content" vi="Các dạng xem hình thức của nội dung hồ sơ" />
+  <translation name="FormalResource" en="Formal Views of Resource Content" vi="Các dạng xem hình thức của nội dung tài nguyên" />
+  <translation name="FormatProfile" en="%FMT% Profile" vi="Hồ sơ %FMT%" />
+  <translation name="FormatRep" en="%FMT% representation of the %ID% %TYPE%." vi="Biểu diễn %FMT% của %ID% %TYPE%." />
+  <translation name="FormatResource" en="%FMT% Resource" vi="Tài nguyên %FMT%" />
+  <translation name="FromNormative" en="from v%NORMVER%" vi="from v%NORMVER%" />
+  <translation name="GeneratedDate" en="Generated %DATE%" vi="Sinh ngày %DATE%" />
+  <translation name="GlobalProfiles" en="Global Profiles" vi="Hồ sơ toàn cục" />
+  <translation name="Globals" en="Globals" vi="Toàn cục" />
+  <translation name="HighlightChanges" en="Highlight text changes?" vi="Tô nổi bật phần thay đổi?" />
+  <translation name="HighlightChangesHelp" en="Enable this to see changes since the last official release" vi="Bật tùy chọn này để xem các thay đổi kể từ bản phát hành chính thức gần nhất." />
+  <translation name="History" en="History" vi="Lịch sử" />
+  <translation name="HistoryOfChange" en="History of changes for %ARTIFACT%." vi="Lịch sử thay đổi của %ARTIFACT%." />
+  <translation name="IGCopyright" en="IG © %YEAR%" vi="IG © %YEAR%" />
+  <translation name="IGPackage" en="Package %PKG% based on %FHIRVER%." vi="Package %PKG% based on %FHIRVER%." />
+  <translation name="Instances" en="Instances" vi="Các instance" />
+  <translation name="JSON" en="JSON" vi="JSON" />
+  <translation name="JSONTemplate" en="JSON Template" vi="Mẫu JSON" />
+  <translation name="KeyElementsTable" en="Key Elements Table" vi="Bảng phần tử chính" />
+  <translation name="KeyElementsView" en="Key Elements View" vi="Dạng xem phần tử chính" />
+  <translation name="Keywords" en="Keywords" vi="Từ khóa" />
+  <translation name="Language" en="Language" vi="Ngôn ngữ" />
+  <translation name="Links" en="Links" vi="Liên kết" />
+  <translation name="LogicalModel" en="Logical Model" vi="Mô hình logic" />
+  <translation name="Mappings" en="Mappings" vi="Ánh xạ" />
+  <translation name="MappingsFor" en="Mappings for the %ID% %TYPE%." vi="Ánh xạ cho %ID% %TYPE%." />
+  <translation name="MaturityLevel" en="Maturity Level" vi="Mức độ trưởng thành" />
+  <translation name="ModelOf" en="Instance of logical model" vi="Instance của mô hình logic" />
+  <translation name="ModifiedContent" en="Modified Content" vi="Nội dung đã sửa" />
+  <translation name="NO_TRANS" en="There is no translation page available for the current page, so it has been rendered in the default language" vi="Hiện chưa có trang dịch cho nội dung này nên trang được hiển thị theo ngôn ngữ mặc định." />
+  <translation name="NarrativeContent" en="Narrative Content" vi="Nội dung narrative" />
+  <translation name="NewContent" en="New Content" vi="Nội dung mới" />
+  <translation name="NextPage" en="next &gt;" vi="trang sau &gt;" />
+  <translation name="NoExamples" en="No examples are currently available for the %ID% Profile." vi="Hiện chưa có ví dụ cho hồ sơ %ID%." />
+  <translation name="NoQuestionnaireResponses" en="There are currently no QuestionnaireResponse instances for this Questionnaire defined in this IG." vi="Hiện chưa có QuestionnaireResponse nào cho Questionnaire này trong IG." />
+  <translation name="NoTestPlan" en="No test plans are currently available for the %ARTIFACT%." vi="Hiện chưa có test plan cho %ARTIFACT%." />
+  <translation name="NoTestScript" en="No test scripts are currently available for the %ARTIFACT%." vi="Hiện chưa có test script cho %ARTIFACT%." />
+  <translation name="Notes" en="Notes" vi="Ghi chú" />
+  <translation name="Obligations" en="Obligations" vi="Nghĩa vụ hỗ trợ" />
+  <translation name="OfficialURL" en="Official URL" vi="URL chính thức" />
+  <translation name="OpenEHR" en="openEHR View" vi="Dạng xem openEHR" />
+  <translation name="OtherIdentifiers" en="Other Identifiers" vi="Định danh khác" />
+  <translation name="OtherReps" en="Other representations of profile:" vi="Biểu diễn khác của hồ sơ:" />
+  <translation name="PageBottom" en="bottom" vi="cuối trang" />
+  <translation name="PageStandardsStatus" en="Page standards status" vi="Trạng thái tiêu chuẩn của trang" />
+  <translation name="PageTop" en="top" vi="đầu trang" />
+  <translation name="PrevPage" en="&lt; prev" vi="&lt; trang trước" />
+  <translation name="Processes" en="Processes" vi="Quy trình" />
+  <translation name="PseudoJSON" en="Pseudo JSON" vi="Pseudo JSON" />
+  <translation name="PseudoTTL" en="Pseudo TTL" vi="Pseudo TTL" />
+  <translation name="PseudoXML" en="Pseudo XML" vi="Pseudo XML" />
+  <translation name="QAReport" en="QA Report" vi="Báo cáo QA" />
+  <translation name="QuestionnaireLogic" en="Form Logic" vi="Logic biểu mẫu" />
+  <translation name="QuestionnaireResponses" en="Sample completed form" vi="Biểu mẫu đã hoàn thành mẫu" />
+  <translation name="QuestionnaireSample" en="Sample Rendering" vi="Bản dựng mẫu" />
+  <translation name="QuestionnaireTree" en="Tree view" vi="Dạng cây" />
+  <translation name="Raw" en="Raw %FMT%" vi="Bản thô %FMT%" />
+  <translation name="ReadingStructures" en="Description Differentials, Snapshots, and other representations" vi="Mô tả profile, differential, snapshot và các biểu diễn liên quan" />
+  <translation name="ReadingTerminology" en="Description of the above table(s)" vi="Mô tả các bảng ở trên" />
+  <translation name="Realm" en="Realm" vi="Phạm vi áp dụng" />
+  <translation name="ResourceDate" en="as of %RESDATE%" vi="tại thời điểm %RESDATE%" />
+  <translation name="ResourceModel" en="Resource" vi="Tài nguyên" />
+  <translation name="ResourceNoExamples" en="No examples are currently available for the %ID% Resource" vi="Hiện chưa có ví dụ cho tài nguyên %ID%." />
+  <translation name="ResourceOtherReps" en="Other representations of resource:" vi="Biểu diễn khác của tài nguyên:" />
+  <translation name="ResourceProfile" en="Resource Profile" vi="Hồ sơ tài nguyên" />
+  <translation name="ResponsesQuestionnaire" en="Responses for this Questionnaire" vi="Các phản hồi cho Questionnaire này" />
+  <translation name="Responsible" en="Responsible" vi="Đơn vị chịu trách nhiệm" />
+  <translation name="Schematron" en="Schematron" vi="Schematron" />
+  <translation name="SearchParameters" en="Search Parameters" vi="Tham số tìm kiếm" />
+  <translation name="SnapshotTable" en="Snapshot Table" vi="Bảng Snapshot" />
+  <translation name="SnapshotView" en="Snapshot View" vi="Dạng xem Snapshot" />
+  <translation name="StandardsStatus" en="Standards Status" vi="Trạng thái tiêu chuẩn" />
+  <translation name="StatisticsReferences" en="Statistics/References" vi="Thống kê/Tham chiếu" />
+  <translation name="Structure" en="Structure" vi="Cấu trúc" />
+  <translation name="Swagger" en="Raw OpenAPI-Swagger Definition file" vi="Raw OpenAPI-Swagger Definition file" />
+  <translation name="TRANS_HLP" en="This page includes translations from the original source language in which the guide was authored.  Information on these translations and instructions on how to provide feedback on the translations can be found [here](translationinfo.html)." vi="Trang này có các bản dịch từ ngôn ngữ gốc mà bộ hướng dẫn được biên soạn. Thông tin về các bản dịch và cách góp ý có tại [đây](translationinfo.html)." />
+  <translation name="TTL" en="TTL" vi="TTL" />
+  <translation name="TTLTemplate" en="TTL Template" vi="TTL Template" />
+  <translation name="TableOfContents" en="Table of Contents" vi="Mục lục" />
+  <translation name="TermParameters" en="Terminology Parameters" vi="Tham số thuật ngữ" />
+  <translation name="TestPlans" en="Test Plans" vi="Kế hoạch kiểm thử" />
+  <translation name="TestQuestionnaire" en="Test this Questionnaire" vi="Kiểm thử Questionnaire này" />
+  <translation name="TestScripts" en="Test Scripts" vi="Kịch bản kiểm thử" />
+  <translation name="Testing" en="Testing" vi="Kiểm thử" />
+  <translation name="UMLDiagram" en="UML Diagram" vi="Sơ đồ UML" />
+  <translation name="Usage" en="Usage" vi="Cách dùng" />
+  <translation name="Version" en="Version" vi="Phiên bản" />
+  <translation name="VisitFCP" en="Visit the FHIR Community Process Specification Registry" vi="Truy cập FHIR Community Process Specification Registry" />
+  <translation name="WorkInProgress" en="The content in this section has not undergone work group review and may be significantly revised prior to the next ballot." vi="Nội dung trong phần này chưa qua thẩm định của work group và có thể còn thay đổi đáng kể trước bản ballot tiếp theo." />
+  <translation name="XML" en="XML" vi="XML" />
+  <translation name="XMLTemplate" en="XML Template" vi="Mẫu XML" />
+</translations>

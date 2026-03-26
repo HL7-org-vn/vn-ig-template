@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<translations>
+  <translation name="AbstractProfileDesc" en="These are profiles on resources or data types that describe patterns used by other profiles but cannot be instantiated directly.  I.e. instances can conform to profiles *based* on these abstract profiles, but do not declare conformance to the abstract profiles themselves." vi="These are profiles on resources or data types that describe patterns used by other profiles but cannot be instantiated directly.  I.e. instances can conform to profiles *based* on these abstract profiles, but do not declare conformance to the abstract profiles themselves." />
+  <translation name="AbstractProfileName" en="Structures: Abstract Profiles" vi="Structures: Abstract Profiles" />
+  <translation name="ActivityDefinitionDesc" en="These define activities that can be performed as part of content in this implementation guide." vi="These define activities that can be performed as part of content in this implementation guide." />
+  <translation name="ActivityDefinitionName" en="Knowledge Artifacts: Activity Definitions" vi="Knowledge Artifacts: Activity Definitions" />
+  <translation name="ActorDefinitionDesc" en="The following artifacts define the types of individuals and/or systems that will interact as part of the use cases covered by this implementation guide." vi="Các artifact sau định nghĩa các loại cá nhân và/hoặc hệ thống sẽ tương tác trong các ca sử dụng của bộ hướng dẫn triển khai này." />
+  <translation name="ActorDefinitionName" en="Requirements: Actor Definitions" vi="Yêu cầu: Định nghĩa tác nhân" />
+  <translation name="CapabilityStatementDesc" en="The following artifacts define the specific capabilities that different types of systems are expected to have in order to comply with this implementation guide.  Systems conforming to this implementation guide are expected to declare conformance to one or more of the following capability statements." vi="Các artifact sau xác định những năng lực cụ thể mà các loại hệ thống khác nhau cần có để tuân thủ bộ hướng dẫn triển khai này." />
+  <translation name="CapabilityStatementName" en="Behavior: Capability Statements" vi="Hành vi: CapabilityStatement" />
+  <translation name="ChargeItemDefinitionDesc" en="Definitions of chargeable costs relevant to the use of this implementation guide." vi="Definitions of chargeable costs relevant to the use of this implementation guide." />
+  <translation name="ChargeItemDefinitionName" en="Clinical: Charge Item Definitions" vi="Clinical: Charge Item Definitions" />
+  <translation name="CitationDesc" en="Supports referencing artifacts defined in this implementation guide." vi="Supports referencing artifacts defined in this implementation guide." />
+  <translation name="CitationName" en="Knowledge Artifacts: Citations" vi="Knowledge Artifacts: Citations" />
+  <translation name="CodeSystemDesc" en="These define new code systems used by systems conforming to this implementation guide." vi="Các artifact sau định nghĩa các bộ mã mới được sử dụng bởi các hệ thống tuân thủ bộ hướng dẫn triển khai này." />
+  <translation name="CodeSystemName" en="Terminology: Code Systems" vi="Thuật ngữ: CodeSystem" />
+  <translation name="ConceptMapDesc" en="These define transformations to convert between codes by systems conforming with this implementation guide." vi="Các artifact sau định nghĩa ánh xạ chuyển đổi giữa các mã cho các hệ thống tuân thủ bộ hướng dẫn triển khai này." />
+  <translation name="ConceptMapName" en="Terminology: Concept Maps" vi="Thuật ngữ: ConceptMap" />
+  <translation name="ConditionDefinitionDesc" en="Formal descriptions of conditions and symptoms relevant to the use of this implementation guide." vi="Formal descriptions of conditions and symptoms relevant to the use of this implementation guide." />
+  <translation name="ConditionDefinitionName" en="Clinical: Condition Definitions" vi="Clinical: Condition Definitions" />
+  <translation name="DataTypeDesc" en="These define constraints on FHIR data types for systems conforming to this implementation guide." vi="These define constraints on FHIR data types for systems conforming to this implementation guide." />
+  <translation name="DataTypeName" en="Structures: Data Type Profiles" vi="Structures: Data Type Profiles" />
+  <translation name="EventDefinitionDesc" en="Defines system and business occurrences that drive a need for data to flow from systems in this implementation guide." vi="Defines system and business occurrences that drive a need for data to flow from systems in this implementation guide." />
+  <translation name="EventDefinitionName" en="Behavior: Event Definitions" vi="Behavior: Event Definitions" />
+  <translation name="EvidenceDesc" en="Indicates research or other information that justifies or support the information exchange defined in this implemetnation guide" vi="Indicates research or other information that justifies or support the information exchange defined in this implemetnation guide" />
+  <translation name="EvidenceName" en="Knowledge Artifacts: Evidence" vi="Knowledge Artifacts: Evidence" />
+  <translation name="EvidenceVariableDesc" en="Components of the research that justify or support the information exchange defined in this implementation guide" vi="Components of the research that justify or support the information exchange defined in this implementation guide" />
+  <translation name="EvidenceVariableName" en="Knowledge Artifacts: Evidence Variables" vi="Knowledge Artifacts: Evidence Variables" />
+  <translation name="ExampleDesc" en="These are example instances that show what data produced and consumed by systems conforming with this implementation guide might look like." vi="Các artifact sau là ví dụ minh họa dữ liệu mà các hệ thống tuân thủ bộ hướng dẫn triển khai này có thể tạo ra hoặc tiêu thụ." />
+  <translation name="ExampleName" en="Example: Example Instances" vi="Ví dụ: Example Instances" />
+  <translation name="ExampleScenarioDesc" en="These define groups of interrelated examples that demonstrate one or more of the workflows supported by this implementation guide." vi="Các artifact sau định nghĩa các nhóm ví dụ liên kết với nhau để minh họa một hoặc nhiều workflow được hỗ trợ." />
+  <translation name="ExampleScenarioName" en="Example: Example Scenarios" vi="Ví dụ: Example Scenarios" />
+  <translation name="ExampleSupportingDesc" en="These are example instances that are not governed by this implementation guide, but which are necessary to support other examples defined in the IG." vi="These are example instances that are not governed by this implementation guide, but which are necessary to support other examples defined in the IG." />
+  <translation name="ExampleSupportingName" en="Example: Example Supporting Instances" vi="Example: Example Supporting Instances" />
+  <translation name="ExtensionDesc" en="These define constraints on FHIR data types for systems conforming to this implementation guide." vi="Các artifact sau định nghĩa các ràng buộc trên kiểu dữ liệu FHIR cho các hệ thống tuân thủ bộ hướng dẫn triển khai này." />
+  <translation name="ExtensionName" en="Structures: Extension Definitions" vi="Cấu trúc: Định nghĩa Extension" />
+  <translation name="GraphDefinitionDesc" en="These define collections of interrelated resources that are useful to pass around as a group." vi="These define collections of interrelated resources that are useful to pass around as a group." />
+  <translation name="GraphDefinitionName" en="Structures: Graph Definitions" vi="Structures: Graph Definitions" />
+  <translation name="LibraryDesc" en="These define logic, asset collections and other libraries as part of content in this implementation guide." vi="These define logic, asset collections and other libraries as part of content in this implementation guide." />
+  <translation name="LibraryName" en="Knowledge Artifacts: Libraries" vi="Knowledge Artifacts: Libraries" />
+  <translation name="LogicalModelDesc" en="These define data models that represent the domain covered by this implementation guide in more business-friendly terms than the underlying FHIR resources." vi="Các artifact sau định nghĩa mô hình dữ liệu biểu diễn miền nghiệp vụ của bộ hướng dẫn triển khai này bằng thuật ngữ gần với người dùng nghiệp vụ hơn tài nguyên FHIR nền." />
+  <translation name="LogicalModelName" en="Structures: Logical Models" vi="Cấu trúc: Logical Models" />
+  <translation name="MeasureDesc" en="These define measures as part of content in this implementation guide." vi="These define measures as part of content in this implementation guide." />
+  <translation name="MeasureName" en="Knowledge Artifacts: Measure" vi="Knowledge Artifacts: Measure" />
+  <translation name="MessageDefinitionDesc" en="These define the types of messages that can be sent and/or received by systems conforming to this implementation guide." vi="These define the types of messages that can be sent and/or received by systems conforming to this implementation guide." />
+  <translation name="MessageDefinitionName" en="Behavior: Message Definitions" vi="Behavior: Message Definitions" />
+  <translation name="NamingSystemDesc" en="These define identifier and/or code system identities used by systems conforming to this implementation guide." vi="Các artifact sau định nghĩa danh tính của hệ thống định danh và/hoặc hệ thống mã dùng trong bộ hướng dẫn triển khai này." />
+  <translation name="NamingSystemName" en="Terminology: Naming Systems" vi="Thuật ngữ: NamingSystem" />
+  <translation name="ObservationDefinitionDesc" en="Formal descriptions of types of observations relevant to the use of this implementation guide." vi="Formal descriptions of types of observations relevant to the use of this implementation guide." />
+  <translation name="ObservationDefinitionName" en="Clinical: Observation Definitions" vi="Clinical: Observation Definitions" />
+  <translation name="OperationDefinitionDesc" en="These are custom operations that can be supported by and/or invoked by systems conforming to this implementation guide." vi="Đây là các operation tùy biến có thể được hỗ trợ và/hoặc gọi bởi các hệ thống tuân thủ bộ hướng dẫn triển khai này." />
+  <translation name="OperationDefinitionName" en="Behavior: Operation Definitions" vi="Hành vi: OperationDefinition" />
+  <translation name="OtherDesc" en="These are resources that are used within this implementation guide that do not fit into one of the other categories." vi="These are resources that are used within this implementation guide that do not fit into one of the other categories." />
+  <translation name="OtherName" en="Other" vi="Other" />
+  <translation name="PlanDefinitionDesc" en="These define workflows, rules, strategies, or protocols as part of content in this implementation guide." vi="These define workflows, rules, strategies, or protocols as part of content in this implementation guide." />
+  <translation name="PlanDefinitionName" en="Knowledge Artifacts: Plan Definitions" vi="Knowledge Artifacts: Plan Definitions" />
+  <translation name="QuestionnaireDesc" en="These define forms used by systems conforming to this implementation guide to capture or expose data to end users." vi="These define forms used by systems conforming to this implementation guide to capture or expose data to end users." />
+  <translation name="QuestionnaireName" en="Structures: Questionnaires" vi="Structures: Questionnaires" />
+  <translation name="RequirementsDesc" en="The following artifacts describe the specific requirements to be met by systems compliant with the implementation guide." vi="Các artifact sau mô tả những yêu cầu cụ thể mà hệ thống tuân thủ bộ hướng dẫn triển khai này phải đáp ứng." />
+  <translation name="RequirementsName" en="Requirements: Formal Requirements" vi="Yêu cầu: Yêu cầu hình thức" />
+  <translation name="ResourceDesc" en="'Additional' resources that are not yet published in the FHIR core specification." vi="'Additional' resources that are not yet published in the FHIR core specification." />
+  <translation name="ResourceName" en="Structures: Additional Resources" vi="Structures: Additional Resources" />
+  <translation name="ResourceProfileDesc" en="These define constraints on FHIR resources for systems conforming to this implementation guide." vi="Các artifact sau định nghĩa các ràng buộc trên tài nguyên FHIR cho các hệ thống tuân thủ bộ hướng dẫn triển khai này." />
+  <translation name="ResourceProfileName" en="Structures: Resource Profiles" vi="Cấu trúc: Hồ sơ tài nguyên" />
+  <translation name="SearchParameterDesc" en="These define the properties by which a RESTful server can be searched.  They can also be used for sorting and including related resources." vi="Các artifact sau định nghĩa các thuộc tính mà một máy chủ RESTful có thể dùng để tìm kiếm, sắp xếp và include tài nguyên liên quan." />
+  <translation name="SearchParameterName" en="Behavior: Search Parameters" vi="Hành vi: SearchParameter" />
+  <translation name="SpecimenDefinitionDesc" en="Formal descriptions of the types of specimens relevant to the use of this implementation guide." vi="Formal descriptions of the types of specimens relevant to the use of this implementation guide." />
+  <translation name="SpecimenDefinitionName" en="Clinical: Specimen Definitions" vi="Clinical: Specimen Definitions" />
+  <translation name="StructureMapDesc" en="These define transformations to convert between data structures used by systems conforming to this implementation guide." vi="These define transformations to convert between data structures used by systems conforming to this implementation guide." />
+  <translation name="StructureMapName" en="Terminology: Structure Maps" vi="Terminology: Structure Maps" />
+  <translation name="SubscriptionTopicDesc" en="These define the types of information that can be subscribed to on systems conforming to this this implementation guide." vi="These define the types of information that can be subscribed to on systems conforming to this this implementation guide." />
+  <translation name="SubscriptionTopicName" en="Behavior: Subscription Topics" vi="Behavior: Subscription Topics" />
+  <translation name="TerminologyCapDesc" en="Parameters that define the expansion of value sets used within the implementation guide." vi="Parameters that define the expansion of value sets used within the implementation guide." />
+  <translation name="TerminologyCapName" en="Terminology: Terminology Capabilities" vi="Terminology: Terminology Capabilities" />
+  <translation name="TestPlanDesc" en="These test plans are available to verify test coverage for this implementation guide." vi="These test plans are available to verify test coverage for this implementation guide." />
+  <translation name="TestPlanName" en="Testing Artifacts: TestPlans" vi="Testing Artifacts: TestPlans" />
+  <translation name="TestScriptDesc" en="These test definitions are available to FHIR test engines to verify systems are conforming to this implementation guide." vi="These test definitions are available to FHIR test engines to verify systems are conforming to this implementation guide." />
+  <translation name="TestScriptName" en="Testing Artifacts: TestScripts" vi="Testing Artifacts: TestScripts" />
+  <translation name="ValueSetDesc" en="These define sets of codes used by systems conforming to this implementation guide." vi="Các artifact sau định nghĩa các tập mã được sử dụng bởi các hệ thống tuân thủ bộ hướng dẫn triển khai này." />
+  <translation name="ValueSetName" en="Terminology: Value Sets" vi="Thuật ngữ: ValueSet" />
+</translations>

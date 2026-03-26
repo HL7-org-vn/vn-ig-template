@@ -1,0 +1,11 @@
+{
+  "name": "hl7.fhir.vn.template",
+  "type": "fhir.template",
+  "license": "CC0-1.0",
+  "description": "HL7 Vietnam FHIR IG template with Vietnamese-first navigation, shared branding, and reusable publication assets",
+  "author": "HL7 Vietnam",
+  "canonical": "http://fhir.hl7.org.vn/template",
+  "homepage": "https://github.com/HL7-org-vn/vn-ig-template",
+  "version": "0.1.0",
+  "date": "20260326000000"
+}
