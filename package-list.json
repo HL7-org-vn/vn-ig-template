@@ -12,8 +12,17 @@
       "current": true
     },
     {
+      "version": "0.1.1",
+      "desc": "Stabilized standalone template package for VN Core v0.3.x and later",
+      "path": "https://github.com/HL7-org-vn/vn-ig-template/releases/tag/v0.1.1",
+      "status": "release",
+      "sequence": "Publications",
+      "date": "2026-03-26",
+      "current": true
+    },
+    {
       "version": "0.1.0",
-      "desc": "Initial standalone template package for VN Core v0.3.x and later",
+      "desc": "Initial standalone template package release",
       "path": "https://github.com/HL7-org-vn/vn-ig-template/releases/tag/v0.1.0",
       "status": "release",
       "sequence": "Publications",
