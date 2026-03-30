@@ -12,13 +12,22 @@
       "current": true
     },
     {
+      "version": "0.1.3",
+      "desc": "Remove duplicate heading counter overrides to stabilize section numbering in downstream IG pages",
+      "path": "https://github.com/HL7-org-vn/vn-ig-template/releases/tag/v0.1.3",
+      "status": "release",
+      "sequence": "Publications",
+      "date": "2026-03-31",
+      "current": true
+    },
+    {
       "version": "0.1.2",
       "desc": "Fix native-language redirect behavior and stabilize template package usage for public IG publication",
       "path": "https://github.com/HL7-org-vn/vn-ig-template/releases/tag/v0.1.2",
       "status": "release",
       "sequence": "Publications",
       "date": "2026-03-26",
-      "current": true
+      "current": false
     },
     {
       "version": "0.1.1",

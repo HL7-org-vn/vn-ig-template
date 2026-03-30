@@ -6,6 +6,6 @@
   "author": "HL7 Vietnam",
   "canonical": "http://fhir.hl7.org.vn/template",
   "homepage": "https://github.com/HL7-org-vn/vn-ig-template",
-  "version": "0.1.2",
-  "date": "20260326000000"
+  "version": "0.1.3",
+  "date": "20260331000000"
 }
